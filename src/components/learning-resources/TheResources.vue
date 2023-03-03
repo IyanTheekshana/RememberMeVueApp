@@ -31,7 +31,7 @@ export default {
       storedResources: [
         {
           id: "Official-guide",
-          title: "Official Guid",
+          title: "Official Guide",
           description: "The official vue.js documentation",
           link: "https://vuejs.org",
         },
