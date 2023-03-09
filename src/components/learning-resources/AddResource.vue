@@ -17,7 +17,7 @@
         <input type="text" id="title" ref="titleInput" v-model="title" />
       </div>
       <div class="form-control">
-        <label for="description">Title</label>
+        <label for="description">Description</label>
         <textarea
           type="text"
           id="description"
